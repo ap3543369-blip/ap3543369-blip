@@ -5,9 +5,9 @@
 Email Me 👉 ✉️ **[ap9122268057@gmail.com](mailto:ap9122268057@gmail.com)** For Collaboration, Projects, or Tech Discussions. 😊
 
 * 🔭 **I’m currently working on:** Personal Portfolio & Web Development Projects
-* 🌱 **I’m currently learning:** Python, Data Structures & Algorithms, Java, and Full Stack Development
+* 🌱 **I’m currently learning:** Python, Data Structures & Algorithms, and Full Stack Development
 * 👯 **I’m looking to collaborate on:** Open Source and Web Development Projects
-* 🤔 **I’m looking for help with:** Advanced DSA and Backend Development
+* 🤔 **I’m looking for help with:**  Backend Development
 * 💬 **Ask me about:** HTML, CSS, Bootstrap, JavaScript, Python
 * 📫 **How to reach me:** [ap9122268057@gmail.com](mailto:ap9122268057@gmail.com)
 * 😄 **Pronouns:** Ayush
